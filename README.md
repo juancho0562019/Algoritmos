@@ -1,4 +1,4 @@
-# PolizaWebAPI
+# WebAPI
 <br/>
 Este repositorio contiene una API web desarrollada con ASP.NET Core 8 y SqlServer como base de datos. Proporciona un conjunto de endpoints para autenticarse y obtener los datos de un algoritmo.
 
